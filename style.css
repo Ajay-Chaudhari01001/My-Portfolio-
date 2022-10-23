@@ -67,8 +67,6 @@ li, a{
 }
 
 
-
-
 /*****************************************************************
     Header Section start
 *****************************************************************/
@@ -80,6 +78,7 @@ li, a{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    z-index: 999;
 }
 
 .header .logo a{
