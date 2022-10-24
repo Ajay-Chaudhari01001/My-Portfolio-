@@ -820,7 +820,7 @@ ul{
 
      .section-portfolio .grid-three-column{
         grid-template-columns: repeat(2, 1fr);
-     }
+     }      
 }
 
 @media (max-width: 680px) {
