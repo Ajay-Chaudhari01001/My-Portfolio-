@@ -889,6 +889,7 @@ ul{
     .section-hero .achivements .achivements-box{
         display: flex;
         gap: 2rem;
+        margin-left: 4rem;
     }
 
 }
