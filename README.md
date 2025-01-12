@@ -1,7 +1,7 @@
 ## 😍 My Personal Portfolio Website 😎
 
 ## Deploy Link
-### [Visit](https://ajaychaudhari.me)
+### [Visit]([https://ajaychaudhari.me](https://ajaychaudhari22.netlify.app/))
 
 ## 📌 Tech Stack
   ### HTML
