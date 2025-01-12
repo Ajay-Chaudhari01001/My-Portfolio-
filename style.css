@@ -490,24 +490,24 @@ ul{
     animation: css 5s;
 }
 .javascript{
-    width: 85%;
+    width: 95%;
     animation: javascript 5s;
 }
 .java{
     width: 75%;
     animation: java 5s;
 }
-.python{
-    width: 70%;
+.typescript{
+    width: 85%;
     animation: python 5s;
 }
 
 .react{
-    width: 30%;
+    width: 90%;
     animation: react 5s;
 }
 .bootstrap{
-    width: 40%;
+    width: 85%;
     animation: bootstrap 5s;
 }
 .git{
@@ -519,7 +519,7 @@ ul{
     animation: netlify 5s;
 }
 .firebase{
-    width: 50%;
+    width: 80%;
     animation: firebase 5s;
 }
 
